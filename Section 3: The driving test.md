@@ -19,7 +19,7 @@ foglights, air vents and temperature control.
 
 
 - demonstrate technical checks such as air pressure and the condition of tyres, oil, fuel, windscreen washer fluid level, coolant, brakes (including
-- handbrake), steering, lights, indicators, reflectors and horn.
+handbrake), steering, lights, indicators, reflectors and horn.
 
 
 
