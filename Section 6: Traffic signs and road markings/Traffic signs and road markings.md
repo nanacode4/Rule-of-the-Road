@@ -23,3 +23,5 @@
 - Give way to trains
 - Never trespass onto the railway
 
+## Section 7: Traffic lights and signals
+- Hand signals手势信号,自行车左转右转，搞手那个，图片没有搞 p111
